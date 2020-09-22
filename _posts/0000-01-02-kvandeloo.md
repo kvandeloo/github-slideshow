@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Special message
+New and more special message
 Use the left arrow to go back!
